@@ -1,6 +1,6 @@
 # AI Landing Page 2025 🌐🤖
 
-![Landing Page Screenshot](assets/screenshot-full.png)
+![Landing Page Screenshot](screen-full-size.png)
 
 A **modern 2025 AI landing page** showcasing interactive UI features with **Flexbox & Grid**, responsive design, and dark/light mode toggle.
 
